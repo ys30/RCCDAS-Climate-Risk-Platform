@@ -84,6 +84,13 @@ ui <- navbarPage(
       ),
 
       div(
+        class = "study-region-panel",
+        h2("Study region: Beijing–Tianjin–Hebei (BTH), China"),
+        p("The regional model covers Beijing, Tianjin and Hebei and follows climate-risk pathways through physical impacts, economy-wide effects and adaptation."),
+        tags$img(src = "bth-study-region.svg", alt = "Schematic overview of the Beijing–Tianjin–Hebei study region", class = "study-region-figure")
+      ),
+
+      div(
         class = "architecture-panel",
         h2("From climate scenarios to decisions"),
         p("RCCDAS connects climate scenarios → physical damage functions → regional economic impacts → adaptation strategy assessment."),
