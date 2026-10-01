@@ -1,0 +1,8 @@
+RCCDAS_DATA_BACKEND=postgres
+DB_HOST=your-private-db-host
+DB_PORT=5432
+DB_NAME=rccdas
+DB_SCHEMA=rccdas
+DB_USER=rccdas_app
+DB_PASSWORD=replace_me
+DB_SSLMODE=require
