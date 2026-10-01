@@ -139,3 +139,5 @@ body{
   .app-hero h1{font-size:36px}
   .workflow-card{min-height:auto}
 }
+
+.study-region-panel{margin:28px 0;background:#fffdf8;border:1px solid #d7ddd5;border-radius:20px;padding:28px}.study-region-panel h2{margin-top:0}.study-region-panel p{color:#607067;max-width:850px}.study-region-figure{display:block;width:100%;max-width:1000px;height:auto;margin:22px auto 0;border-radius:16px}
