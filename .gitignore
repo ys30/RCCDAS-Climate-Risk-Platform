@@ -1,0 +1,25 @@
+# Private data and model artifacts
+data/
+helper/
+*.gdx
+*.lst
+*.log
+*.lxi
+*.xls
+*.xlsx
+
+# Secrets
+.Renviron
+.env
+
+# R/deployment
+.Rhistory
+.RData
+.Rproj.user/
+rsconnect/
+packrat/lib*/
+packrat/src/
+
+# OS/editor
+.DS_Store
+Thumbs.db
