@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620" role="img" aria-labelledby="t d">
+<title id="t">Beijing–Tianjin–Hebei study region</title><desc id="d">Schematic regional overview of Beijing, Tianjin and Hebei in northern China for the RCCDAS climate risk platform.</desc>
+<rect width="1100" height="620" rx="28" fill="#f7f3e9"/>
+<text x="70" y="80" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#17382e">RCCDAS STUDY REGION</text>
+<text x="70" y="122" font-family="Georgia,serif" font-size="38" font-weight="700" fill="#102a22">Beijing–Tianjin–Hebei (BTH), China</text>
+<path d="M470 128 C390 150 330 205 300 278 C270 352 298 448 382 493 C459 534 580 520 653 471 C720 426 748 353 723 284 C697 211 625 154 545 134 Z" fill="#dfe9df" stroke="#315e4e" stroke-width="4"/>
+<path d="M482 228 C454 238 438 262 440 291 C442 319 465 340 495 339 C525 338 548 316 549 288 C550 258 529 234 501 228 Z" fill="#1d6a4e"/>
+<path d="M574 318 C553 326 540 345 542 366 C544 388 563 404 585 402 C607 400 623 382 622 360 C621 338 603 320 581 318 Z" fill="#4f9a79"/>
+<text x="472" y="292" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="white">Beijing</text>
+<text x="557" y="366" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">Tianjin</text>
+<text x="374" y="430" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#315e4e">Hebei</text>
+<circle cx="832" cy="223" r="8" fill="#1d6a4e"/><text x="856" y="230" font-family="Arial,sans-serif" font-size="20" fill="#334d43">Beijing municipality</text>
+<circle cx="832" cy="270" r="8" fill="#4f9a79"/><text x="856" y="277" font-family="Arial,sans-serif" font-size="20" fill="#334d43">Tianjin municipality</text>
+<circle cx="832" cy="317" r="8" fill="#dfe9df" stroke="#315e4e" stroke-width="2"/><text x="856" y="324" font-family="Arial,sans-serif" font-size="20" fill="#334d43">Hebei province</text>
+<line x1="70" y1="542" x2="1030" y2="542" stroke="#cfd8d1"/>
+<text x="70" y="580" font-family="Arial,sans-serif" font-size="17" fill="#607067">Regional scope used throughout RCCDAS climate, sector-impact, economic-impact and adaptation modules.</text>
+</svg>
